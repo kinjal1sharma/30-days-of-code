@@ -10,4 +10,10 @@ Parallax is an effect where the background content or image in this case, is mov
 #### THE SLIDING PERSPECTIVE ETXT EFFECT
 3D Perspective Text Hover Effect with pure CSS using transform and skew technique. 
 
+# DAY 3
+### 16 November 2021
+#### SIDE BAR MENU
+A side bar ,enu curved outside in active tab
+
+
 
