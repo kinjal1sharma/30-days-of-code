@@ -13,7 +13,7 @@ Parallax is an effect where the background content or image in this case, is mov
 # DAY 3
 ### 16 November 2021
 #### SIDE BAR MENU
-A side bar ,enu curved outside in active tab
+A side bar menu curved outside in active tab
 
 
 
